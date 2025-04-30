@@ -1,0 +1,4 @@
+.env
+client_secrets.json
+__pycache__/g
+file_sorter.log

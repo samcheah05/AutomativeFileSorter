@@ -1,0 +1,8 @@
+{
+    "ai_model": "all-MiniLM-L6-v2",
+    "default_sort_folder": "",
+    "sorting_frequency": "Manual",
+    "theme": "Light",
+    "font_size": 11,
+    "notifications": true
+}
